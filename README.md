@@ -1,4 +1,4 @@
-<img src="images/homepage.png" alt="GitHub Banner" width="100%" />
+<img src="images/herogit.gif" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">Hi there 👋, I'm </h1>
 <h3 align="center">A Cross Platform & Full Stack Developer, based in Paris</h3>
