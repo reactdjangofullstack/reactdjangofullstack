@@ -1,6 +1,6 @@
 <img src="herogit.gif" alt="GitHub Banner" width="100%"/>
 <h1 align="center">Hi there 👋 </h1>
-<h3 align="center">, I'm A Cross Platform & Full Stack Developer, based in Paris</h3>
+<h3 align="center"> I'm A Cross Platform & Full Stack Developer based in Paris</h3>
 
 <img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/342/794/original/programmer-typing-laptop-line-2d-loading-bar-animation-black-woman-programming-animated-cartoon-linear-character-4k-loading-motion-graphic-it-developer-code-download-bar-process-indicator-gif-video.jpg"/>
 
