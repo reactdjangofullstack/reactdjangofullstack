@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 </h1>
 <h3 align="center"> I'm Full Stack Developer</h3>
 
-<img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/342/794/original/programmer-typing-laptop-line-2d-loading-bar-animation-black-woman-programming-animated-cartoon-linear-character-4k-loading-motion-graphic-it-developer-code-download-bar-process-indicator-gif-video.jpg"/>
+<img align="right" alt="developer" width="400" src="https://youteam.io/blog/full-stack-software-developer-hiring/"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactdjangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="reactdjangofullstack" /> </p>
