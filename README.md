@@ -1,4 +1,4 @@
-<img src="herogit.gif" alt="GitHub Banner" width="100%"/>
+<img src="https://wallpapercave.com/wp/wp11346428.jpg" alt="GitHub Banner" width="100%"/>
 <h1 align="center">Hi there 👋 </h1>
 <h3 align="center"> I'm Full Stack Developer</h3>
 
