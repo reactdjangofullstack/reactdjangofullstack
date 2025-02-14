@@ -1,16 +1,21 @@
 <img src="herogit.gif" alt="GitHub Banner" width="100%"/>
 <h1 align="center">Hi there 👋 </h1>
-<h3 align="center"> I'm A Cross Platform & Full Stack Developer based in Paris</h3>
+<h3 align="center"> I'm Full Stack Developer</h3>
 
 <img align="right" alt="developer" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/026/342/794/original/programmer-typing-laptop-line-2d-loading-bar-animation-black-woman-programming-animated-cartoon-linear-character-4k-loading-motion-graphic-it-developer-code-download-bar-process-indicator-gif-video.jpg"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reactdjangofullstack&label=Profile%20views&color=0e75b6&style=flat" alt="reactdjangofullstack" /> </p>
 
-- ⚡I love technology **and enjoy, coding and creating web and mobile apps**
-- 👯 I'm open to work with companies in a constructive ways
+- ⚡Welcome to my GitHub! I'm a full-stack developer with a passion for turning ideas into seamless digital experiences. Whether it's front-end design or back-end functionality, I tackle every project with creativity and precision.**
+- 👯 Let's Connect and Collaborate!
+🌟 Explore My Projects: Discover innovative solutions and cutting-edge technologies in my repository.
 
-<h3 align="left">Connect with me:</h3>
+🌟 Contribute: Have an idea or improvement? Feel free to fork my projects and submit a pull request. Your contributions are always welcome!
+
+🌟 Hire Me: Looking for a full-stack developer to bring your vision to life? Contact me to discuss how we can work together.
+
+<h3 align="left">Ready to dive in? Start exploring my work and let's create something amazing together! 🚀</h3>
 <p align="left">
 </p>
 
